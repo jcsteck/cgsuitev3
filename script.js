@@ -90,7 +90,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
      },
      {
       "id": "overlay_A90F4AD4_BC75_919C_41DE_DB4493709D6D",
-      "rollOverDisplay": false,
+      "rollOverDisplay": true,
       "class": "HotspotPanoramaOverlay",
       "useHandCursor": true,
       "areas": [
